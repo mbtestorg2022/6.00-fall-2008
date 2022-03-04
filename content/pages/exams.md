@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 3ca78693-7c3c-657b-17df-50f07b16762e
 ---
@@ -58,7 +61,7 @@ Quiz 3 (final exam)
 
 List of topics covered ([PDF]({{< baseurl >}}/resources/final_topics))
 
-Code sample for quiz ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/exams/q3.py))
+Code sample for quiz ([PY]({{< baseurl >}}/resources/q3))
 
 Explanation of code sample ([PDF]({{< baseurl >}}/resources/q3_explain))
 

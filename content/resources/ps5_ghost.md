@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: Supporting Python code for Problems Set 5.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/63d4635603d21439064559e39fe50eed_ps5_ghost.py
+file_type: text/plain
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+resourcetype: Other
+title: ps5_ghost
+uid: 63d46356-03d2-1439-0645-59e39fe50eed
+---

@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec8 \"Open in a new window.\"))\
+  \  \nTranscript ([PDF](resources/6-00f08-l08 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '8: Complexity: Log, Linear, Quadratic, Exponential Algorithms'
 uid: a8c71fad-4211-c68a-9134-da10d454f920

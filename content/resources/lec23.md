@@ -7,6 +7,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec23
 uid: beb6404b-6b82-fdae-53d3-24704557f840

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 73abac88-dca8-2c7f-57bd-be466a9a5bc3
 ---
@@ -63,7 +66,7 @@ Computing prime numbers, product of primes ([PDF]({{< baseurl >}}/resources/pset
 Diophantine equations ([PDF]({{< baseurl >}}/resources/pset2))
 {{< tdclose >}}
 {{< tdopen >}}
-ps2b.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps2b.py))
+ps2b.py ([PY]({{< baseurl >}}/resources/ps2b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +78,7 @@ ps2b.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduc
 Matching strings: a biological perspective ([PDF]({{< baseurl >}}/resources/pset3))
 {{< tdclose >}}
 {{< tdopen >}}
-ps3\_template.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps3_template.py))
+ps3\_template.py ([PY]({{< baseurl >}}/resources/ps3_template))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +90,7 @@ ps3\_template.py ([PY](/courses/electrical-engineering-and-computer-science/6-00
 Simulating a retirement fund ([PDF]({{< baseurl >}}/resources/pset4))
 {{< tdclose >}}
 {{< tdopen >}}
-ps4.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps4.py))
+ps4.py ([PY]({{< baseurl >}}/resources/ps4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,13 +104,13 @@ Word games ([PDF]({{< baseurl >}}/resources/pset5))
 {{< tdopen >}}
 
 
-ps5.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps5.py))
+ps5.py ([PY]({{< baseurl >}}/resources/ps5))
 
-test\_ps5.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/test_ps5.py))
+test\_ps5.py ([PY]({{< baseurl >}}/resources/test_ps5))
 
-ps5\_ghost.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps5_ghost.py))
+ps5\_ghost.py ([PY]({{< baseurl >}}/resources/ps5_ghost))
 
-words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/words.txt))
+words.txt ([TXT]({{< baseurl >}}/resources/words))
 
 
 {{< tdclose >}}
@@ -123,9 +126,9 @@ Word games 2 ([PDF]({{< baseurl >}}/resources/pset6))
 {{< tdopen >}}
 
 
-ps6.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps6.py))
+ps6.py ([PY]({{< baseurl >}}/resources/ps6))
 
-words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/words.txt))
+words.txt ([TXT]({{< baseurl >}}/resources/words))
 
 
 {{< tdclose >}}
@@ -153,9 +156,9 @@ Dynamic programming ([PDF]({{< baseurl >}}/resources/pset8))
 {{< tdopen >}}
 
 
-ps8.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps8.py))
+ps8.py ([PY]({{< baseurl >}}/resources/ps8))
 
-subjects.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/subjects.txt))
+subjects.txt ([TXT]({{< baseurl >}}/resources/subjects))
 
 
 {{< tdclose >}}
@@ -171,9 +174,9 @@ Classes and methods ([PDF]({{< baseurl >}}/resources/pset9))
 {{< tdopen >}}
 
 
-ps9.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps9.py))
+ps9.py ([PY]({{< baseurl >}}/resources/ps9))
 
-shapes.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/shapes.txt))
+shapes.txt ([TXT]({{< baseurl >}}/resources/shapes))
 
 
 {{< tdclose >}}
@@ -189,13 +192,13 @@ Object-oriented programming; graphical user interface for word game ([PDF]({{< b
 {{< tdopen >}}
 
 
-ps10.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps10.py))
+ps10.py ([PY]({{< baseurl >}}/resources/ps10))
 
-ps10\_test.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps10_test.py))
+ps10\_test.py ([PY]({{< baseurl >}}/resources/ps10_test))
 
-ps10\_gui.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps10_gui.py))
+ps10\_gui.py ([PY]({{< baseurl >}}/resources/ps10_gui))
 
-words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/words.txt))
+words.txt ([TXT]({{< baseurl >}}/resources/words))
 
 
 {{< tdclose >}}
@@ -211,9 +214,9 @@ Simulating robots ([PDF]({{< baseurl >}}/resources/pset11))
 {{< tdopen >}}
 
 
-ps11.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps11.py))
+ps11.py ([PY]({{< baseurl >}}/resources/ps11))
 
-ps11\_visualize.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps11_visualize.py))
+ps11\_visualize.py ([PY]({{< baseurl >}}/resources/ps11_visualize))
 
 
 {{< tdclose >}}
@@ -227,7 +230,7 @@ ps11\_visualize.py ([PY](/courses/electrical-engineering-and-computer-science/6-
 Simulating virus population dynamics ([PDF]({{< baseurl >}}/resources/pset12))
 {{< tdclose >}}
 {{< tdopen >}}
-ps12.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps12.py))
+ps12.py ([PY]({{< baseurl >}}/resources/ps12))
 {{< tdclose >}}
 
 {{< trclose >}}

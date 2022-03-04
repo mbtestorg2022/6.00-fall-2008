@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec11-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l11 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '11: Testing and Debugging'
 uid: dc783fd3-cd1c-7b04-bf45-9ffb13050b80

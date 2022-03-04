@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec16-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l16 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '16: Encapsulation, Inheritance, Shadowing'
 uid: 19674a30-5e76-f2e9-3597-82082e318e08

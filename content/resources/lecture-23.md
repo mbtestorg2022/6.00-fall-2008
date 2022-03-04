@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec23-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l23 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '23: Stock Market Simulation'
 uid: 575617b3-ca2a-a029-c96f-3173c4177b9b

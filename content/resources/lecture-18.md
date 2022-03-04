@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec18-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l18 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '18: Presenting Simulation Results, Pylab, Plotting'
 uid: f7049c51-f984-f3db-da4a-6843881cad0a

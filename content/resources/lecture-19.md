@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec19-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l19 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '19: Biased Random Walks, Distributions'
 uid: b216402a-2d5c-7709-f80d-93a0c53164ea

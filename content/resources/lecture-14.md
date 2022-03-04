@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec14-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l14 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '14: Introduction to Object-oriented Programming'
 uid: f475375e-58c9-d9ee-0352-51a78d0f12a0

@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: Supporting data file for Problems Sets 5, 6, and 10.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/678ff0b0153fc3dd5280587679fd84d8_words.txt
+file_type: text/plain
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+resourcetype: Other
+title: words
+uid: 678ff0b0-153f-c3dd-5280-587679fd84d8
+---

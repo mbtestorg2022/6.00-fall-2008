@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec9 \"Open in a new window.\"))\
+  \  \nTranscript ([PDF](resources/6-00f08-l09 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '9: Binary Search, Bubble and Selection Sorts'
 uid: ce67e8d3-f89d-a7d2-b014-756a9e46b5d0

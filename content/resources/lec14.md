@@ -7,6 +7,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec14
 uid: b384805e-01ba-9dd2-0753-7d9b5f6c0cc6

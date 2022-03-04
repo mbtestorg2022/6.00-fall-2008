@@ -7,6 +7,10 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Buy at MIT Press
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: MIT Press button
 uid: 4a983a2f-7192-0191-ec54-077d9d38243e

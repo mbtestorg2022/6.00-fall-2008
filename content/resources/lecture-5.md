@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec5 \"Open in a new window.\"))\
+  \  \nTranscript ([PDF](resources/6-00f08-l05 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '5: Floating Point Numbers, Successive Refinement, Finding Roots'
 uid: 5cf77ed9-a77e-401b-283d-315358149495

@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec21-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l21 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '21: Validating Simulation Results, Curve Fitting, Linear Regression'
 uid: 4733e53d-2b79-062c-086b-6e5d8e3d2f99

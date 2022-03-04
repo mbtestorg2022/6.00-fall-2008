@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec22-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l22 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '22: Normal, Uniform, and Exponential Distributions'
 uid: 723b44fd-a16f-f0bd-c4c1-11ed80d996e7

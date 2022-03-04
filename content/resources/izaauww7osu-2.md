@@ -3,6 +3,8 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/1844c8c4f2b45f6cbe817bf881dfd41d_IZaAUwW7OsU.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 1844c8c4-f2b4-5f6c-be81-7bf881dfd41d

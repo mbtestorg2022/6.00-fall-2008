@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec6 \"Open in a new window.\"))\
+  \  \nTranscript ([PDF](resources/6-00f08-l06 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '6: Bisection Methods, Newton/Raphson, Introduction to Lists'
 uid: 483a4ea0-2e33-3cff-5aee-c362c96a59e4

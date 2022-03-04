@@ -1,0 +1,14 @@
+---
+content_type: resource
+description: Supporting Python code for Problems Set 8.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/2e739760e4f59e4763109d1db3537083_ps8.py
+file_type: text/plain
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
+resourcetype: Other
+title: ps8
+uid: 2e739760-e4f5-9e47-6310-9d1db3537083
+---
