@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec2 \"Open in a new window.\"))\
+  \  \nTranscript ([PDF](resources/6-00f08-l02 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '2: Branching, Conditionals, and Iteration'
 uid: 17e53a0c-487b-6583-c1be-48d0fbb69715

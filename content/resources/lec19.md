@@ -8,6 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec19
 uid: 79e081f7-3c31-5238-7b1d-7e9bfa4b489b

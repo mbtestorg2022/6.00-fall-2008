@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 73abac88-dca8-2c7f-57bd-be466a9a5bc3
 ---
@@ -15,18 +18,221 @@ TECHNICAL NOTE: Some modern operating systems, particularly OS X El Capitan, no 
 
 WARNING: On the Python homepage, the latest version available for download is actually 3.5. Do not install this! This version is not backwards compatible with the code that you'll be writing in this course (for example, you have to type print("test") instead of print test.)
 
-| ASSN # | PROBLEM SETS | SUPPORTING FILES |
-| --- | --- | --- |
-| 0 | A very simple program: entering and printing your name ([PDF]({{< baseurl >}}/resources/pset0)) | &nbsp; |
-| 1 | Computing prime numbers, product of primes ([PDF]({{< baseurl >}}/resources/pset1a)) | &nbsp; |
-| 2 | Diophantine equations ([PDF]({{< baseurl >}}/resources/pset2)) | ps2b.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps2b.py)) |
-| 3 | Matching strings: a biological perspective ([PDF]({{< baseurl >}}/resources/pset3)) | ps3\_template.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps3_template.py)) |
-| 4 | Simulating a retirement fund ([PDF]({{< baseurl >}}/resources/pset4)) | ps4.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps4.py)) |
-| 5 | Word games ([PDF]({{< baseurl >}}/resources/pset5)) |  {{< br >}}{{< br >}} ps5.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps5.py)) {{< br >}}{{< br >}} test\_ps5.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/test_ps5.py)) {{< br >}}{{< br >}} ps5\_ghost.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps5_ghost.py)) {{< br >}}{{< br >}} words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/words.txt)) {{< br >}}{{< br >}}  |
-| 6 | Word games 2 ([PDF]({{< baseurl >}}/resources/pset6)) |  {{< br >}}{{< br >}} ps6.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps6.py)) {{< br >}}{{< br >}} words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/words.txt)) {{< br >}}{{< br >}}  |
-| 7 | Review problems ([PDF]({{< baseurl >}}/resources/pset7)) | &nbsp; |
-| 8 | Dynamic programming ([PDF]({{< baseurl >}}/resources/pset8)) |  {{< br >}}{{< br >}} ps8.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps8.py)) {{< br >}}{{< br >}} subjects.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/subjects.txt)) {{< br >}}{{< br >}}  |
-| 9 | Classes and methods ([PDF]({{< baseurl >}}/resources/pset9)) |  {{< br >}}{{< br >}} ps9.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps9.py)) {{< br >}}{{< br >}} shapes.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/shapes.txt)) {{< br >}}{{< br >}}  |
-| 10 | Object-oriented programming; graphical user interface for word game ([PDF]({{< baseurl >}}/resources/pset10)) |  {{< br >}}{{< br >}} ps10.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps10.py)) {{< br >}}{{< br >}} ps10\_test.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps10_test.py)) {{< br >}}{{< br >}} ps10\_gui.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps10_gui.py)) {{< br >}}{{< br >}} words.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/words.txt)) {{< br >}}{{< br >}}  |
-| 11 | Simulating robots ([PDF]({{< baseurl >}}/resources/pset11)) |  {{< br >}}{{< br >}} ps11.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps11.py)) {{< br >}}{{< br >}} ps11\_visualize.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps11_visualize.py)) {{< br >}}{{< br >}}  |
-| 12 | Simulating virus population dynamics ([PDF]({{< baseurl >}}/resources/pset12)) | ps12.py ([PY](/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/ps12.py))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSN #
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+A very simple program: entering and printing your name ([PDF]({{< baseurl >}}/resources/pset0))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Computing prime numbers, product of primes ([PDF]({{< baseurl >}}/resources/pset1a))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Diophantine equations ([PDF]({{< baseurl >}}/resources/pset2))
+{{< tdclose >}}
+{{< tdopen >}}
+ps2b.py ([PY]({{< baseurl >}}/resources/ps2b))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Matching strings: a biological perspective ([PDF]({{< baseurl >}}/resources/pset3))
+{{< tdclose >}}
+{{< tdopen >}}
+ps3\_template.py ([PY]({{< baseurl >}}/resources/ps3_template))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Simulating a retirement fund ([PDF]({{< baseurl >}}/resources/pset4))
+{{< tdclose >}}
+{{< tdopen >}}
+ps4.py ([PY]({{< baseurl >}}/resources/ps4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Word games ([PDF]({{< baseurl >}}/resources/pset5))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ps5.py ([PY]({{< baseurl >}}/resources/ps5))
+
+test\_ps5.py ([PY]({{< baseurl >}}/resources/test_ps5))
+
+ps5\_ghost.py ([PY]({{< baseurl >}}/resources/ps5_ghost))
+
+words.txt ([TXT]({{< baseurl >}}/resources/words))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Word games 2 ([PDF]({{< baseurl >}}/resources/pset6))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ps6.py ([PY]({{< baseurl >}}/resources/ps6))
+
+words.txt ([TXT]({{< baseurl >}}/resources/words))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Review problems ([PDF]({{< baseurl >}}/resources/pset7))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic programming ([PDF]({{< baseurl >}}/resources/pset8))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ps8.py ([PY]({{< baseurl >}}/resources/ps8))
+
+subjects.txt ([TXT]({{< baseurl >}}/resources/subjects))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Classes and methods ([PDF]({{< baseurl >}}/resources/pset9))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ps9.py ([PY]({{< baseurl >}}/resources/ps9))
+
+shapes.txt ([TXT]({{< baseurl >}}/resources/shapes))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Object-oriented programming; graphical user interface for word game ([PDF]({{< baseurl >}}/resources/pset10))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ps10.py ([PY]({{< baseurl >}}/resources/ps10))
+
+ps10\_test.py ([PY]({{< baseurl >}}/resources/ps10_test))
+
+ps10\_gui.py ([PY]({{< baseurl >}}/resources/ps10_gui))
+
+words.txt ([TXT]({{< baseurl >}}/resources/words))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Simulating robots ([PDF]({{< baseurl >}}/resources/pset11))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+ps11.py ([PY]({{< baseurl >}}/resources/ps11))
+
+ps11\_visualize.py ([PY]({{< baseurl >}}/resources/ps11_visualize))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Simulating virus population dynamics ([PDF]({{< baseurl >}}/resources/pset12))
+{{< tdclose >}}
+{{< tdopen >}}
+ps12.py ([PY]({{< baseurl >}}/resources/ps12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

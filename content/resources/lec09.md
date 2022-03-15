@@ -8,6 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec09
 uid: 81e0ba56-a2f3-3c3d-bd14-4340630a71e2

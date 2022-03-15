@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec7 \"Open in a new window.\"))\
+  \  \nTranscript ([PDF](resources/6-00f08-l07 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '7: Lists and Mutability, Dictionaries, Introduction to Efficiency'
 uid: 5d72e8ed-8a72-cd1e-06a6-849f3fb9707c

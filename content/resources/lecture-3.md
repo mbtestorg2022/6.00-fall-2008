@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec3 \"Open in a new window.\"))\
+  \  \nTranscript ([PDF](resources/6-00f08-l03 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '3: Common Code Patterns: Iterative Programs'
 uid: 47da00c9-fbaf-ffb0-16dd-0d6498b4831c

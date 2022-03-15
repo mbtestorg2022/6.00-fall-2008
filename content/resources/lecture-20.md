@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec20-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l20 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '20: Monte Carlo Simulations, Estimating pi'
 uid: bd8756a4-b857-f630-5d75-eee857488ecb

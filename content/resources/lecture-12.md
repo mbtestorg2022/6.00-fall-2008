@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec12-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l12 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '12: Debugging, Knapsack Problem, Introduction to Dynamic Programming'
 uid: 0b75a44e-d266-ff62-633f-f3bc5ed76657

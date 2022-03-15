@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec17-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l17 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '17: Computational Models: Random Walk Simulation'
 uid: d48aa4ed-dc40-90ae-685e-d830452d9b10

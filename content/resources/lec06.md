@@ -8,6 +8,8 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: lec06
 uid: ff9f17a4-21c9-9bf4-568f-5adee3bbd1f9

@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec13-1 \"Open in a new window.\"\
+  ))  \nTranscript ([PDF](resources/6-00f08-l13 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '13: Dynamic Programming: Overlapping Subproblems, Optimal Substructure'
 uid: 4bd33407-8fcb-c790-8b2c-dbb596999f9c

@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: "Handout ([PDF](resources/lec4 \"Open in a new window.\"))\
+  \  \nTranscript ([PDF](resources/6-00f08-l04 \"Open in a new window.\"))"
+resource_index_text: ''
 resourcetype: Video
 title: '4: Abstraction through Functions; Introduction to Recursion'
 uid: 12e94da3-fa6e-b6a4-e440-0559af9c917a
