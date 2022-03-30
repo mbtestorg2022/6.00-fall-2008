@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3ca78693-7c3c-657b-17df-50f07b16762e
 resourcetype: Document
 title: Topics Covered in 6.00, Fall 2008
 uid: 32b8dbf3-4c23-f84d-c405-cf64d62455f1

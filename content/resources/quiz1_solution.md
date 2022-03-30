@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3ca78693-7c3c-657b-17df-50f07b16762e
 resourcetype: Document
 title: Quiz 1 Practice Problem Solutions
 uid: 54f11f0f-b2ae-829e-182e-c483d57f8307

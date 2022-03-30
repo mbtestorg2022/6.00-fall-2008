@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3ca78693-7c3c-657b-17df-50f07b16762e
 resourcetype: Document
 title: Sample Quiz Questions
 uid: 06a2385e-a259-cc3d-e48f-c3c8b7605516

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9bc93929-36ac-d9b0-f975-ae4d5ca38bf5
 resourcetype: Document
 title: Sums, Approximations, and Asymptotics II
 uid: ed6f464f-a5d1-318b-66e7-92709d447dee

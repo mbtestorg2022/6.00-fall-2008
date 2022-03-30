@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 73abac88-dca8-2c7f-57bd-be466a9a5bc3
 resourcetype: Document
 title: 'Problem Set 12: Simulating Virus Population  Dynamics'
 uid: 9f87ac0f-a11a-79f7-c01c-739418545616

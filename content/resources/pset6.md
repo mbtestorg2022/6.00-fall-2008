@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 73abac88-dca8-2c7f-57bd-be466a9a5bc3
 resourcetype: Document
 title: 'Problem Set 6: Word Game II'
 uid: 30edc1b7-e5d3-d845-dde1-869979b7db5c

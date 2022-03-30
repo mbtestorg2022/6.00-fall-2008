@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 73abac88-dca8-2c7f-57bd-be466a9a5bc3
 resourcetype: Document
 title: 'Problem Set 11: Simulating Robots'
 uid: 0589e2f1-cd11-25d3-1b3c-9fc4b05b60cf

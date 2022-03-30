@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 73abac88-dca8-2c7f-57bd-be466a9a5bc3
 resourcetype: Document
 title: 'Problem Set 9: As If You Needed More Classes'
 uid: e860d0f0-3b93-ba97-8f79-aa3fb8d5a3ca

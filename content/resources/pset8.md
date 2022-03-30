@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 73abac88-dca8-2c7f-57bd-be466a9a5bc3
 resourcetype: Document
 title: 'Problem Set 8: Dynamic Programming'
 uid: 8d9e8d23-25fb-4816-a932-46fe9a4372ab

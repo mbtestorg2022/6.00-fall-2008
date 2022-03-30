@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3ca78693-7c3c-657b-17df-50f07b16762e
 resourcetype: Document
 title: Explanation of code sample
 uid: d9acfac1-7ff7-1054-3774-11e609d3d8d3
